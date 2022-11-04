@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/sam19004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sam19004" height="30" width="40" /></a>
 <a href="https://codesandbox.com/samarth_2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samarth_2610" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/samarth12610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samarth12610" height="30" width="40" /></a> 
+<a href="https://www.codechef.com/users/samarth12610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samarth12610" height="30" width="40" /></a> <a href="https://linktr.ee/samarth2610"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
