@@ -6,7 +6,7 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **samarth.190410107105@gmail.com**
--  <a href="https://linktr.ee/samarth2610"></a>
+- <p> <a href="https://linktr.ee/samarth2610"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
